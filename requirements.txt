@@ -1,0 +1,8 @@
+SpeechRecognition
+pydub
+numpy
+opencv-python==4.5.4.60
+imutils
+pyqt5
+pillow
+pyyaml
